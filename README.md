@@ -1,2 +1,1 @@
-
-NCKU Digital IC Design Course
+- NCKU Digital IC Design Course
